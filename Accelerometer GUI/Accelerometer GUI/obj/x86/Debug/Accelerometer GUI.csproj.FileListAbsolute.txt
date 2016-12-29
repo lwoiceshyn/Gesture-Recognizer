@@ -1,0 +1,7 @@
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\obj\x86\Debug\Mech 368 Gesture Recognition Application - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\obj\x86\Debug\Mech 368 Gesture Recognition Application - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\bin\Debug\Mech 368 Gesture Recognition Application - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\bin\Debug\Mech 368 Gesture Recognition Application - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Accelerometer GUI\Accelerometer GUI\obj\x86\Debug\Accelerometer GUI.csproj.GenerateResource.Cache
